@@ -4,15 +4,15 @@ This folder contains the static website for the Alpha Alpha Gamma Sigma Alumni C
 
 ## What’s in this project
 
-- `src/ai_studio_code.html` — the home page for the chapter site.
-- `src/about.html` — chapter history and mission.
-- `src/programs.html` — community programs and education initiatives.
-- `src/events.html` — upcoming service and chapter events.
-- `src/leadership.html` — chapter executive team and officers.
-- `src/membership.html` — membership inquiry, values, and intake information.
-- `src/contact.html` — contact details and inquiries.
-- `src/ai_studio_code.css` — site styles and visual theme.
-- `src/site.js` — mobile navigation behavior and accessibility helpers.
+- [`index.html`](index.html) — the home page for the chapter site.
+- [`about.html`](about.html) — chapter history and mission.
+- [`programs.html`](programs.html) — community programs and education initiatives.
+- [`events.html`](events.html) — upcoming service and chapter events.
+- [`leadership.html`](leadership.html) — chapter executive team and officers.
+- [`membership.html`](membership.html) — membership inquiry, values, and intake information.
+- [`contact.html`](contact.html) — contact details and inquiries.
+- [`ai_studio_code.css`](ai_studio_code.css) — site styles and visual theme.
+- [`site.js`](site.js) — mobile navigation behavior and accessibility helpers.
 
 ## Purpose
 
@@ -20,8 +20,8 @@ The website is designed to present the chapter’s identity with a clear navigat
 
 ## How to preview
 
-1. Open `PBSWEB/src/ai_studio_code.html` in your browser.
-2. Or serve the `PBSWEB/src` folder with a simple static server if you prefer local web hosting.
+1. Open [`index.html`](index.html) in your browser.
+2. Or serve the `PBSWEB` folder with a simple static server if you prefer local web hosting.
 
 ## Notes
 
